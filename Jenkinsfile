@@ -5,7 +5,7 @@ node {
   stage ('stage2') {
     sh 'echo "automate that stage2 !!"'
   }
-  stage ('stage3') {
+  stage ('stage4') {
     sh 'echo "automate that stage3 !!"'
   }
 
